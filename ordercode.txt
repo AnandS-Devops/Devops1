@@ -1,2 +1,6 @@
 this is related to order page
 this includes order history, cart, 
+this is included all the team members list
+  Anand
+  varun
+  prateek
